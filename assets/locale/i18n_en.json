@@ -1,0 +1,17 @@
+{
+  "ui": {
+    "app_name": "Sample",
+    "required": "Required",
+    "select_option": "Please select {} item",
+    "add_to_cart_args": "Add {} to cart"
+  },
+  "error": {
+    "page_not_found": "Page not found",
+    "on_error": "Something went wrong. Try again later.",
+    "add_to_cart_failed": "You must be select required option"
+  },
+  "message": {
+    "maximum_item_selected": "You're already select maximum item",
+    "add_to_cart_success": "Add to cart successfully"
+  }
+}

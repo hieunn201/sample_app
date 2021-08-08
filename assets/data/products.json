@@ -1,0 +1,71 @@
+{
+  "id": 14557,
+  "name": "Flat White",
+  "price": 125,
+  "before_sale_price": null,
+  "description": "Freshly-ground beans and steamed milk",
+  "full_description": "Freshly-ground beans and steamed milk",
+  "order": 1,
+  "category": {
+    "id": 1727,
+    "name": "Coffee"
+  },
+  "images": {
+    "full_size": "https://res.cloudinary.com/ginja-co-ltd/image/upload/s--zHcUzne6--/c_fill,h_300,q_jpegmini,w_485/v1/vendors/the-coffee-club-205/products/flat-white-mug-14557",
+    "thumbnail": "https://res.cloudinary.com/ginja-co-ltd/image/upload/s--sVm4XF-z--/c_fill,h_70,q_jpegmini,w_103/v1/vendors/the-coffee-club-205/products/flat-white-mug-14557"
+  },
+  "extras": [
+    {
+      "id": 1535,
+      "name": "Milk Option",
+      "min": 1,
+      "max": 1
+    },
+    {
+      "id": 1536,
+      "name": "Milk Option",
+      "min": 0,
+      "max": 3
+    }
+  ],
+  "extra_items": [
+    {
+      "id": 6631,
+      "name": "Full Milk",
+      "extra_id": 1535,
+      "price": 5
+    },
+    {
+      "id": 6632,
+      "name": "Skim Milk",
+      "extra_id": 1535,
+      "price": 25
+    },
+    {
+      "id": 6633,
+      "name": "Soy Milk",
+      "extra_id": 1535,
+      "price": 20
+    },
+    {
+      "id": 6634,
+      "name": "Full Milk",
+      "extra_id": 1536,
+      "price": 10
+    },
+    {
+      "id": 6635,
+      "name": "Skim Milk",
+      "extra_id": 1536,
+      "price": 15
+    },
+    {
+      "id": 6636,
+      "name": "Soy Milk",
+      "extra_id": 1536,
+      "price": 20
+    }
+  ],
+  "tags": [],
+  "availability": "available"
+}

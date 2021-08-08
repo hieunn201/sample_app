@@ -1,0 +1,5 @@
+class ImageAssets {
+}
+
+class VectorImageAssets {
+}
